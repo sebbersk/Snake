@@ -1,2 +1,2 @@
-# snake
-Snake Game with Pygame
+# Snake
+Snake Game with Pygame. For fun and learn about the PyGame module.
