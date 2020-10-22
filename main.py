@@ -3,7 +3,6 @@ import sys, pygame,time,random
 pygame.init()
 
 size = width, height = 620, 620
-speed = [2, 2]
 black = 0, 0, 0
 gray = 150,150,150
 white = 255,255,255
